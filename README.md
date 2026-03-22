@@ -20,7 +20,7 @@
   <p>Networking, Windows Server, Azure Basics, Virtualization</p>
 
   <h2>Resume</h2>
-  <a href="resume.pdf" download>Download My Resume</a>
+  <a href="cultural-bronze-squirrel.pdf" download>Download My Resume</a>
 
   <h2>Contact</h2>
   <p>Email: amber221t@gmail.com</p>
